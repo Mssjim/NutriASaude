@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Nutri A+Saude:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Nutri_A_Saude_jar</output-path>
+    <root id="archive" name="Nutri A+Saude.jar">
+      <element id="module-output" name="Nutri A+Saude" />
+    </root>
+  </artifact>
+</component>
